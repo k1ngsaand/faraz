@@ -56,8 +56,8 @@ logo = """
 \033[1;91m●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●
 \033[1;96mAuthor  \033[1;93m: \033[1;92mFaraz Saand
 \033[1;96mInstagram \033[1;93m: \033[1;FlowFaraz
-\033[1;96mFacebook  \033[1;93m: \033[1; Faraz
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Therana/zero
+\033[1;96mFacebook  \033[1;93m: \033[1;Faraz Ali
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/k1ngsaand/faraz
 \033[1;91m●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●"""
 
 def tik():
